@@ -1,5 +1,7 @@
 # Cipher Usability
 
+## This project was completed August 8, 2023.
+
 ### This Project Includes:
 - Imported string library to access more characters.
 - Opening message with the user that describes what the program will do.
